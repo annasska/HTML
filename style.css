@@ -55,6 +55,7 @@ body
     float: left;
     text-align: center;
     font-size: 30px;
+    display: flex;
     justify-content: center;
     align-items: center; 
 
