@@ -48,7 +48,10 @@ body
 
 .tile1
 {
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
     width: 230px;
     height: 142px;
     background-color: #3095d3;
