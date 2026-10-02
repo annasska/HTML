@@ -94,8 +94,8 @@ body
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #d94348;
     float: left;
+    text-align: center;
 }
 
 .FB
@@ -103,8 +103,8 @@ body
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #4668b3;
     float: left;
+    text-align: center;
 }
 
 .WHATSAPP
@@ -112,8 +112,8 @@ body
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #d95333;
     float: left;
+    text-align: center;
 }
 
 .GH
@@ -121,6 +121,6 @@ body
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #3095d3;
     float: left;
+    text-align: center;
 }
