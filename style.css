@@ -77,3 +77,11 @@ body
     height: 142px;
     background-color: #ee5a32;
 }
+
+.tile5
+{
+    margin: 10px;
+    width: 480px;
+    height: 304px;
+    background-color: #666666;
+}
