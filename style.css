@@ -48,10 +48,8 @@ body
 
 .tile1
 {
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin: 10px;
+    padding: 20px;
     width: 230px;
     height: 142px;
     background-color: #3095d3;
