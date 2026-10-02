@@ -49,13 +49,14 @@ body
 .tile1
 {
     margin: 10px;
-    padding: 20px;
     width: 230px;
     height: 142px;
     background-color: #3095d3;
     float: left;
     text-align: center;
     font-size: 30px;
+    justify-content: center;
+
 }
 
 .tile2
