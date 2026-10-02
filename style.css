@@ -2,7 +2,7 @@ body
 {
     background-color: #303030;
     color: #ffffff;
-    font-family: 'Lato', sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     font-size: 20px;
 }
 
@@ -30,7 +30,7 @@ body
 #logo
 {
     float: left;
-    font-family: 'Playwrite CA Guides', cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     font-size: 70px;
     width: 600px;
 }
@@ -38,6 +38,6 @@ body
 #clock
 {
     float: left;
-    font-family: 'Playwrite CA Guides', cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     font-size: 70px;
 }
