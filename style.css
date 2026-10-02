@@ -26,3 +26,18 @@ body
     float: left;
     background-color: #11e9e9;
 }
+
+#logo
+{
+    float: left;
+    font-family: 'Playwrite CA Guides', cursive;
+    font-size: 70px;
+    width: 600px;
+}
+
+#clock
+{
+    float: left;
+    font-family: 'Playwrite CA Guides', cursive;
+    font-size: 70px;
+}
