@@ -30,6 +30,8 @@ body
     font-family: 'Josefin Sans', sans-serif;
     font-size: 50px;
     width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #clock
@@ -37,6 +39,8 @@ body
     float: left;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .tile1
