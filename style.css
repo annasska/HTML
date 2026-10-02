@@ -9,18 +9,18 @@ body
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: aqua;
+    background-color: #4adb10;
 }
 .rectangle
 {
     width: 960px;
     margin: 20px;
-    background-color: blue;
+    background-color: #6d8a89;
 }
 
 .square
 {
     width: 50%;
     float:left;
-    background-color: aquamarine;
+    background-color: #11e9e9;
 }
