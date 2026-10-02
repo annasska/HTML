@@ -55,8 +55,7 @@ body
     float: left;
     text-align: center;
     font-size: 30px;
-    margin-top: auto;
-    margin-bottom: auto;
+    padding: auto;
 }
 
 .tile2
@@ -68,8 +67,7 @@ body
     float: left;
     text-align: center;
     font-size: 30px;
-    margin-top: auto;
-    margin-bottom: auto;
+    padding: auto;
 }
 
 .tile3
@@ -81,8 +79,7 @@ body
     float: left;
     text-align: center;
     font-size: 30px;
-    margin-top: auto;
-    margin-bottom: auto;
+    padding: auto;
 }
 
 .tile4
@@ -108,8 +105,6 @@ body
     height: 142px;
     float: left;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .FB
@@ -119,8 +114,6 @@ body
     height: 142px;
     float: left;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .WHATSAPP
@@ -130,8 +123,6 @@ body
     height: 142px;
     float: left;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .GH
@@ -141,6 +132,4 @@ body
     height: 142px;
     float: left;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
