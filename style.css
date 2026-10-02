@@ -89,7 +89,7 @@ body
     background-color: #666666; 
 }
 
-.sm1
+.IG
 {
     margin: 10px;
     width: 105px;
@@ -98,16 +98,17 @@ body
     float: left;
 }
 
-.sm2
+.FB
 {
     margin: 10px;
     width: 105px;
     height: 142px;
     background-color: #4668b3;
     float: left;
+    font-family: 50px;
 }
 
-.sm3
+.WHATSAPP
 {
     margin: 10px;
     width: 105px;
@@ -116,7 +117,7 @@ body
     float: left;
 }
 
-.sm4
+.GH
 {
     margin: 10px;
     width: 105px;
