@@ -53,6 +53,10 @@ body
     height: 142px;
     background-color: #3095d3;
     float: left;
+    text-align: center;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .tile2
@@ -62,6 +66,10 @@ body
     height: 142px;
     background-color: #666666;
     float: left;
+    text-align: center;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .tile3
@@ -71,6 +79,10 @@ body
     height: 142px;
     background-color: #93c748;
     float: left;
+    text-align: center;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .tile4
@@ -79,6 +91,11 @@ body
     width: 480px;
     height: 142px;
     background-color: #ee5a32;
+    text-align: center;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .tile5
