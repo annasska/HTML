@@ -16,6 +16,7 @@ body
 {
     width: 960px;
     margin: 20px;
+    text-align: center;
 }
 
 .square
@@ -32,6 +33,7 @@ body
     width: 600px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: left;
 }
 
 #clock
@@ -41,6 +43,7 @@ body
     font-size: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: left;
 }
 
 .tile1
